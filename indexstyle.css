@@ -20,4 +20,7 @@ ul{
   transform: translate(-50%,-50%);
 }
 
-ul li 
+ul li{
+  display: inline-block;
+}
+
