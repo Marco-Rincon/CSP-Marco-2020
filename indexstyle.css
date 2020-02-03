@@ -11,16 +11,3 @@ header{
   background-position; center;
   padding: 500px;
 }
-
-ul{
-  margin-top: 30px;
-  float: center;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%,-50%);
-}
-
-ul li{
-  display: inline-block;
-}
-
